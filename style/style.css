@@ -46,6 +46,8 @@ body {
 .hero-section {
   padding-top: 80px;
   display: flex;
+  justify-content: center;
+  align-items: center;
   gap: 30px;
 }
 
@@ -59,14 +61,16 @@ body {
 .hero-content button {
   background-color: #3882F6;
   color: white;
+  font-weight: 500;
   border: none;
   border-radius: 5px;
-  padding: 5px 20px;
+  padding: 5px 25px;
   margin-top: 10px;
 }
 
 .hero-text {
-  font-size: 15px;
+  font-size: 16px;
+  margin-top: 4px;
   color: #E5E7EB;
 }
 
@@ -74,10 +78,11 @@ body {
   background-color: rgb(129, 129, 129);
   font-size: 13px;
   color: white;
-  width: 650px;
-  height: 160px;
+  width: 660px;
+  height: 190px;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-basis: 100%;
 }

@@ -88,10 +88,11 @@ body {
 }
 
 .section-1 {
-  padding: 10px 140px 140px 110px;
+  padding: 10px 140px 70px 140px;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 .section-1 .illustration-containers{

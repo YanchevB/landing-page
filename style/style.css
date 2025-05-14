@@ -95,7 +95,21 @@ body {
   align-items: center;
 }
 
-.section-1 .illustration-containers{
+.section-1 .illustration-containers {
   display: flex;
   flex-direction: row;
+  gap: 10px;
+}
+
+.card {
+  text-align: center;
+  font-size: 15px;
+}
+
+.frame {
+  border-style: solid;
+  border-color: #3882f6;
+  border-radius: 5px;
+  height: 80px;
+  width: 80px;
 }

@@ -86,3 +86,15 @@ body {
   justify-content: center;
   flex-basis: 100%;
 }
+
+.section-1 {
+  padding: 10px 140px 140px 110px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.section-1 .illustration-containers{
+  display: flex;
+  flex-direction: row;
+}

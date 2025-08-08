@@ -128,3 +128,23 @@ body {
   height: 125px;
   width: 125px;
 }
+
+.section-2 {
+  display: flex;
+  justify-items: center;
+  background-color: #E5E7EB;
+  padding: 100px 400px;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.section-2 .main-text {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 200;
+}
+.section-2 #author {
+  margin-left: auto;
+  margin-right: 10px;
+  font-weight: bold
+}

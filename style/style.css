@@ -15,7 +15,7 @@ body {
 
 .header {
   background-color: #1F2937;
-  padding: 10px 110px 110px 110px;
+  padding: 10px 250px 110px 250px;
   display: flex;
   flex-direction: column;
 }
@@ -48,7 +48,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 50px;
 }
 
 .hero-content .hero-title {
@@ -88,7 +88,7 @@ body {
 }
 
 .section-1 {
-  padding: 10px 140px 70px 140px;
+  padding: 10px 350px 70px 350px;
   display: flex;
   flex-direction: column;
   justify-content: center;

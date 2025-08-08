@@ -95,7 +95,17 @@ body {
   align-items: center;
 }
 
-.section-1 .illustration-containers {
+.section-1-header {
+  padding: 10px 0px 30px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.illustration-containers {
   display: flex;
   flex-direction: row;
   gap: 10px;

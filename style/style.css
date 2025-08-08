@@ -88,7 +88,7 @@ body {
 }
 
 .section-1 {
-  padding: 10px 350px 70px 350px;
+  padding: 10px 370px 70px 370px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -101,14 +101,15 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
 }
 
 .illustration-containers {
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 50px;
+  text-align: justify;
 }
 
 .card {

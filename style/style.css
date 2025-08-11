@@ -148,3 +148,17 @@ body {
   margin-right: 10px;
   font-weight: bold
 }
+
+.container {
+  margin: 70px 150px;
+  padding: 40px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3882F6;
+  color: white;
+}
+
+.right-side {
+  margin-left: 200px;
+}

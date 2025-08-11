@@ -190,3 +190,18 @@ body {
   padding: 5px 25px;
   border-style: solid;
 }
+
+.footer {
+  background-color: #1F2937;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 35px;
+}
+
+.before-space::before, .after-space::after {
+  content: '';
+  display: inline-block;
+  width: 8px;
+}

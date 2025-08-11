@@ -154,7 +154,7 @@ body {
   padding: 40px 10px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
   background-color: #3882F6;
   color: white;
 }
@@ -169,5 +169,15 @@ body {
 }
 
 .right-side {
+  display: flex;
+  align-items: flex-end;
   margin-left: 200px;
+}
+
+.right-side button {
+  background-color: #3882F6;
+  color: white;
+  border-color: white;
+  border-radius: 5px;
+  padding: 5px 25px;
 }

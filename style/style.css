@@ -159,6 +159,15 @@ body {
   color: white;
 }
 
+#CTA {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#sign-up {
+  font-weight: 100;
+}
+
 .right-side {
   margin-left: 200px;
 }
